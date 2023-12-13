@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=San+Francisco&pause=1000&color=15F7C7&vCenter=true&width=435&lines=Hey+!+I'm+N_AUTH05+%2C+Welcome+to+My+Repo)](https://github.com/NAUTH05)
 
-![Profile Views](https://komarev.com/ghpvc/?username=N_AUTH&color=056af7&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=NAUTH05&color=056af7&style=flat-square)
 
 Hi guys, I'm **N_AUTH**. I am a ... from <img alt="Vietnamese Flag" src="https://cdn.countryflags.com/thumbs/vietnam/flag-400.png" width="13" /> **Bien Hoa, Vietnam**.
 
