@@ -7,7 +7,7 @@ Hi guys, I'm **N_AUTH**. I am a ... from <img alt="Vietnamese Flag" src="https:/
 - 💼 Contact me on discord at: N_AUTH#8836
 - 💬 Do add me on discord or facebook too if you just want to have a chat!
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/697320993621803088)](https://discord.com/users/697320993621803088)
+[![Discord Presence](https://lanyard.cnrad.dev/api/697320993621803088)](https://discord.com/users/575460242398380032)
 
 <h2>⚡ Stats</h2>
 
