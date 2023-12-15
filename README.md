@@ -15,7 +15,16 @@ Hi guys, I'm **N_AUTH**. I am a ... from <img alt="Vietnamese Flag" src="https:/
 <!--END_SECTION:waka-->
 
 <p align="left">
-  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=NAUTH05&show_icons=true&layout=compact&theme=react&hide_border=true" alt="Github status" />
+ <table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=NAUTH05&count_private=true&show_icons=true&theme=merko&include_all_commits=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ciculs&theme=react&hide_border=true" />
+    </td>
+  </tr>
+</table>
 </p>
 
 **CRE**: erutluZ
