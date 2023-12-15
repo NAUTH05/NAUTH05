@@ -10,7 +10,7 @@ Hi guys, I'm **N_AUTH**. I am a ... from <img alt="Vietnamese Flag" src="https:/
 [![Discord Presence](https://lanyard.cnrad.dev/api/575460242398380032)](https://discord.com/users/575460242398380032)
 
 <h2>⚡ Recent Activity</h2>
-<img align="center" style="padding=0;" src="https://github-readme-activity-graph.vercel.app/graph?username=Ciculs&theme=react-dark&hide_border=true" />
+<img align="center" style="padding=0;" src="https://github-readme-activity-graph.vercel.app/graph?username=NAUTH05&theme=react-dark&hide_border=true" />
 
 <h2>⚡ Stats</h2>
 
