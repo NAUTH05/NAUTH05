@@ -30,5 +30,3 @@ Hi guys, I'm **N_AUTH**. I am a ... from <img alt="Vietnamese Flag" src="https:/
   </tr>
 </table>
 </p>
-
-**CRE**: erutluZ
