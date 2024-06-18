@@ -40,16 +40,16 @@
 
 <h3>Find me on</h3>
 
-<a href="https://fastchen.com"><img height="24" src="https://img.shields.io/badge/FastChen's%20Blog-282C34?logo=hexo" alt="FastChen's Blog" title="FastChen's Blog"/></a>
+<a href="https://fastchen.com"><img height="24" src="https://img.shields.io/badge/FastChen's%20Blog-282C34?logo=hexo" alt="NAUTH05's Blog" title="NAUTH05's Blog"/></a>
 
 <h3>Organizations</h3>
 
-<a href="https://github.com/NullCraftOrg">@NullCraftOrg</a>
+<a href="https://github.com/NONE">NONE</a>
 
 <h3>My Stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=FastChen" alt="FastChen's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=NAUTH05" alt="NAUTH05's GitHub stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FastChen&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAUTH05&layout=compact" />
 
 Cre: FastChen
