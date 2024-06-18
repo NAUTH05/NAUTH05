@@ -1,4 +1,4 @@
-<h3><img height="64" src="./img/bash.svg" alt="CSharp" title="CSharp"/> _ <span>你好(Hi), i'm FastChen(快辰)! 👋</span></h3>
+<h3><img height="64" src="./img/bash.svg" alt="CSharp" title="CSharp"/> _ <span>Hi, i'm N_AUTH! 👋</span></h3>
 
 <h1>👉 About Me</h1>
 
@@ -37,10 +37,6 @@
 
 <code><img height="24" src="./img/icons/device/windows11-original.svg" alt="Windows11-PC" title="Windows11-PC"/></code>
 <code><img height="24" src="./img/icons/device/linux-original.svg" alt="Linux" title="Linux"/></code>
-<code><img height="24" src="./img/icons/device/apple-original.svg" alt="Apple" title="Apple"/></code>
-<code><img height="24" src="./img/icons/device/raspberrypi-original.svg" alt="RaspberryPi" title="RaspberryPi"/></code>
-<code><img height="24" src="./img/icons/device/nintendoswitch.svg" alt="Nintendo Switch" title="Nintendo Switch"/></code>
-<code><img height="24" src="./img/icons/device/nintendo3ds.svg" alt="Nintendo 3DS" title="Nintendo 3DS"/></code>
 
 <h3>Find me on</h3>
 
