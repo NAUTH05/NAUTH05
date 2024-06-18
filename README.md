@@ -10,15 +10,13 @@
 <code><img height="24" src="./img/icons/typescript-original.svg" alt="Typescript" title="Typescript"/></code>
 <code><img height="24" src="./img/icons/html5-original.svg" alt="HTML5" title="HTML5"/></code>
 <code><img height="24" src="./img/icons/css3-original.svg" alt="CSS3" title="CSS3"/></code>
-<code><img height="24" src="./img/icons/vuejs-original.svg" alt="Vuejs" title="Vuejs"/></code>
-<code><img height="24" src="./img/icons/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap"/></code>
 
 <h3>Backend</h3>
 
-<code><img height="24" src="./img/icons/csharp-original.svg" alt="CSharp" title="CSharp"/></code>
+/*<code><img height="24" src="./img/icons/csharp-original.svg" alt="CSharp" title="CSharp"/></code>
 <code><img height="24" src="./img/icons/php-original.svg" alt="PHP" title="PHP"/></code>
 <code><img height="24" src="./img/icons/java-original.svg" alt="Coffee(Java)" title="Coffee(Java)"/></code>
-<code><img height="24" src="./img/icons/nodejs-original.svg" alt="NodeJS" title="NodeJS"/></code>
+<code><img height="24" src="./img/icons/nodejs-original.svg" alt="NodeJS" title="NodeJS"/></code>*/
 
 <h3>Environment</h3>
 
@@ -31,7 +29,7 @@
 <code><img height="24" src="./img/icons/tools/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio"/></code>
 <code><img height="24" src="./img/icons/tools/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 <code><img height="24" src="./img/icons/tools/figma-original.svg" alt="Figma" title="Figma"/></code>
-<code><img height="24" src="./img/icons/tools/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA"/></code>
+/*<code><img height="24" src="./img/icons/tools/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA"/></code>*/
 
 <h2>My Device</h2>
 
