@@ -13,10 +13,10 @@
 
 <h3>Backend</h3>
 
-/*<code><img height="24" src="./img/icons/csharp-original.svg" alt="CSharp" title="CSharp"/></code>
+<!--<code><img height="24" src="./img/icons/csharp-original.svg" alt="CSharp" title="CSharp"/></code>
 <code><img height="24" src="./img/icons/php-original.svg" alt="PHP" title="PHP"/></code>
 <code><img height="24" src="./img/icons/java-original.svg" alt="Coffee(Java)" title="Coffee(Java)"/></code>
-<code><img height="24" src="./img/icons/nodejs-original.svg" alt="NodeJS" title="NodeJS"/></code>*/
+<code><img height="24" src="./img/icons/nodejs-original.svg" alt="NodeJS" title="NodeJS"/></code>-->
 
 <h3>Environment</h3>
 
