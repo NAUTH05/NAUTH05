@@ -29,7 +29,6 @@
 <code><img height="24" src="./img/icons/tools/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio"/></code>
 <code><img height="24" src="./img/icons/tools/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 <code><img height="24" src="./img/icons/tools/figma-original.svg" alt="Figma" title="Figma"/></code>
-/*<code><img height="24" src="./img/icons/tools/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA"/></code>*/
 
 <h2>My Device</h2>
 
