@@ -1,4 +1,3 @@
--👉 About Me
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=San+Francisco&pause=500&color=056af7&vCenter=true&width=435&lines=Hi+!+I'm+N_AUTH05+%2C+Welcome+to+My+Repo)](https://github.com/NAUTH05) <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=San+Francisco&pause=1000&color=ef2222&vCenter=true&width=435&lines=And+...+I+Love+Nguyen+Ngoc+Mai+❤️)](https://github.com/NAUTH05)
 
