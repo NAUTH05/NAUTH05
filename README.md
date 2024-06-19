@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=San+Francisco&pause=500&color=056af7&vCenter=true&width=435&lines=Hi+!+I'm+N_AUTH05+%2C+Welcome+to+My+Repo)](https://github.com/NAUTH05) <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=San+Francisco&pause=1000&color=ef2222&vCenter=true&width=435&lines=And+...+I+Love+Nguyen+Ngoc+Mai+❤️)](https://github.com/NAUTH05)
 
-<h3><img height="64" src="./img/bash.svg" alt="CSharp" title="CSharp"/> _ <span> Hi guys, I'm **N_AUTH**. I am a ... from <img alt="Vietnamese Flag" src="https://cdn.countryflags.com/thumbs/vietnam/flag-400.png" width="13" /> **Bien Hoa, Vietnam**.
+<h3><img height="64" src="./img/bash.svg" alt="CSharp" title="CSharp"/> 
+_ <span> Hi guys, I'm **N_AUTH**. I am a ... from <img alt="Vietnamese Flag" src="https://cdn.countryflags.com/thumbs/vietnam/flag-400.png" width="13" /> **Bien Hoa, Vietnam**.
 
 - 💼 Contact me on discord at: N_AUTH#8836
 - 💬 Do add me on discord or facebook too if you just want to have a chat!</span></h3>
