@@ -1,10 +1,9 @@
+-👉 About Me
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=San+Francisco&pause=500&color=056af7&vCenter=true&width=435&lines=Hi+!+I'm+N_AUTH05+%2C+Welcome+to+My+Repo)](https://github.com/NAUTH05) <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=San+Francisco&pause=1000&color=ef2222&vCenter=true&width=435&lines=And+...+I+Love+Nguyen+Ngoc+Mai+❤️)](https://github.com/NAUTH05)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NAUTH05&color=056af7&style=flat-square)
 <h3><img height="64" src="./img/bash.svg" alt="CSharp" title="CSharp"/> _ <span>Hi, i'm N_AUTH! 👋</span></h3>
-
-<h1>👉 About Me</h1>
 
 <h3>Frontend</h3>
 
