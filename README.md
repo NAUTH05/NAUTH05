@@ -6,7 +6,7 @@
   _ <span> Hi guys, I'm <strong>N_AUTH</strong>. I am a ... from <img alt="Vietnamese Flag" src="https://cdn.countryflags.com/thumbs/vietnam/flag-400.png" width="13" /> <strong>Bien Hoa, Vietnam</strong>.
 
   - 💼 Contact me on Discord at: <div class="icon-text-container">
-  <img class="icon" src="./img/icons/Discord.svg" alt="Discord" title="Discord"/>
+  <img height="18" class="icon" src="./img/icons/Discord.svg" alt="Discord" title="Discord"/>
   <span class="text">N_AUTH</span>
 </div>
   - 💬 Do add me on Discord or Facebook too if you just want to have a chat!
