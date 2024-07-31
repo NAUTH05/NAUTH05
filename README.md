@@ -4,7 +4,7 @@
 <h3><img height="64" src="./img/bash.svg" alt="CSharp" title="CSharp"/> 
 _ <span> Hi guys, I'm **N_AUTH**. I am a ... from <img alt="Vietnamese Flag" src="https://cdn.countryflags.com/thumbs/vietnam/flag-400.png" width="13" /> **Bien Hoa, Vietnam**.
 
-- 💼 Contact me on discord at: <a href="https://discord.com/users/575460242398380032" targer="_blank"><img height="24" src=".img/icons/1691730767discord-logo-transparent.svg" alt="Discord" title="Discord"/></a>
+- 💼 Contact me on discord at: <a href="https://discord.com/users/575460242398380032" targer="_blank"><img height="24" src=".img/icons/Discord.svg" alt="Discord" title="Discord"/></a>
 - 💬 Do add me on discord or facebook too if you just want to have a chat!</span></h3>
 
 <h3>Frontend</h3>
