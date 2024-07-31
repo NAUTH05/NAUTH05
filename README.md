@@ -5,7 +5,10 @@
   <img height="64" src="./img/bash.svg" alt="CSharp" title="CSharp"/> 
   _ <span> Hi guys, I'm <strong>N_AUTH</strong>. I am a ... from <img alt="Vietnamese Flag" src="https://cdn.countryflags.com/thumbs/vietnam/flag-400.png" width="13" /> <strong>Bien Hoa, Vietnam</strong>.
 
-  - 💼 Contact me on Discord at: <a href="https://discord.com/users/575460242398380032" target="_blank"><img height="18" src="./img/icons/Discord.svg" alt="N_AUTH" title="N_AUTH"/></a>
+  - 💼 Contact me on Discord at: <div class="icon-text-container">
+  <img class="icon" src="./img/icons/Discord.svg" alt="Discord" title="Discord"/>
+  <span class="text">N_AUTH</span>
+</div>
   - 💬 Do add me on Discord or Facebook too if you just want to have a chat!
   </span>
 </h3>
