@@ -4,7 +4,7 @@
 <h3><img height="64" src="./img/bash.svg" alt="CSharp" title="CSharp"/> 
 _ <span> Hi guys, I'm **N_AUTH**. I am a ... from <img alt="Vietnamese Flag" src="https://cdn.countryflags.com/thumbs/vietnam/flag-400.png" width="13" /> **Bien Hoa, Vietnam**.
 
-- 💼 Contact me on discord at: N_AUTH#8836
+- 💼 Contact me on discord at: <a href="https://discord.com/users/575460242398380032" targer="_blank">N_AUTH</a>
 - 💬 Do add me on discord or facebook too if you just want to have a chat!</span></h3>
 
 <h3>Frontend</h3>
@@ -40,7 +40,7 @@ _ <span> Hi guys, I'm **N_AUTH**. I am a ... from <img alt="Vietnamese Flag" src
 
 <h3>Find me on</h3>
 
-<a href="https://www.facebook.com/AceGod1231/" target="blank"><img height="24" src="https://img.shields.io/badge/N_AUTH's%20Blog-282C34?logo=hexo" alt="NAUTH05's Blog" title="NAUTH05's Blog"/></a>
+<a href="https://www.facebook.com/AceGod1231/" target="_blank"><img height="24" src="https://img.shields.io/badge/N_AUTH's%20Blog-282C34?logo=hexo" alt="NAUTH05's Blog" title="NAUTH05's Blog"/></a>
 
 <h3>Organizations</h3>
 
