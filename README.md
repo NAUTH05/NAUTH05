@@ -1,11 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=San+Francisco&pause=500&color=056af7&vCenter=true&width=435&lines=Hi+!+I'm+N_AUTH05+%2C+Welcome+to+My+Repo)](https://github.com/NAUTH05) <br>
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=San+Francisco&pause=1000&color=ef2222&vCenter=true&width=435&lines=And+...+I+Love+Nguyen+Ngoc+Mai+❤️)](https://github.com/NAUTH05)-->
 
-<h3><img height="64" src="./img/bash.svg" alt="CSharp" title="CSharp"/> 
-_ <span> Hi guys, I'm **N_AUTH**. I am a ... from <img alt="Vietnamese Flag" src="https://cdn.countryflags.com/thumbs/vietnam/flag-400.png" width="13" /> **Bien Hoa, Vietnam**.
+<h3>
+  <img height="64" src="./img/bash.svg" alt="CSharp" title="CSharp"/> 
+  _ <span> Hi guys, I'm <strong>N_AUTH</strong>. I am a ... from <img alt="Vietnamese Flag" src="https://cdn.countryflags.com/thumbs/vietnam/flag-400.png" width="13" /> <strong>Bien Hoa, Vietnam</strong>.
 
-- 💼 Contact me on discord at: <a href="https://discord.com/users/575460242398380032" targer="_blank"><img height="24" src=".img/icons/Discord.svg" alt="Discord" title="Discord"/></a>
-- 💬 Do add me on discord or facebook too if you just want to have a chat!</span></h3>
+  - 💼 Contact me on Discord at: <a href="https://discord.com/users/575460242398380032" target="_blank"><img height="24" src="./img/icons/Discord.svg" alt="Discord" title="Discord"/></a>
+  - 💬 Do add me on Discord or Facebook too if you just want to have a chat!
+  </span>
+</h3>
 
 <h3>Frontend</h3>
 
