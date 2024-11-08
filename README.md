@@ -56,5 +56,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=NAUTH05" alt="NAUTH05's GitHub stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAUTH05&layout=compact" />
-
-Cre: FastChen
